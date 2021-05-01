@@ -7,14 +7,14 @@ that converts one or more lines of selected text into a stringified, comma-separ
 
 **For example:**
 
-*apple*
-*banana*
-*cat*
-*dog*
+  *apple*</br>
+  *banana*</br>
+  *cat*</br>
+  *dog*</br>
 
 **becomes**
 
-*'apple',*
-*'banana',*
-*'cat',*
-*'dog'*
+  *'apple',*</br>
+  *'banana',*</br>
+  *'cat',*</br>
+  *'dog'*</br>
